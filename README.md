@@ -1,4 +1,3 @@
-# pritanand7.github.io
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,7 +9,7 @@
     <script src="https://kit.fontawesome.com/dd815888da.js" crossorigin="anonymous"></script>
    
     <!--Add your image link here!-->
-    <link rel="icon" href="Prit\assets\Prit.jpg" type="image/icon type">
+    <link rel="icon" href="https://github.com/pritanand7/pritanand7.github.io/blob/80b95623e84a15b520a10e11ae782d5b54df7d71/assets/Prit.jpg" type="image/icon type">
 
 
    
@@ -27,7 +26,7 @@
 }
 
 body {
-    background-image: url("assets/Background.png");  
+    background-image: url("https://github.com/pritanand7/pritanand7.github.io/blob/80b95623e84a15b520a10e11ae782d5b54df7d71/assets/Background.png");  
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: lighten;
