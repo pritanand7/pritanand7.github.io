@@ -13,13 +13,20 @@ body {
     background-attachment: fixed;
     font-family: Inter, sans-serif;
 }
-
-img {
+/*img {
     border-radius: 50%;
     box-shadow: 3px 3px rgba(56, 56, 56, 0.575);
     margin-top: 9%;
     width: 500px;
 }
+*/
+img { 
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%; 
+}
+
 
 #profileIMG {
     margin-left: 8%;
